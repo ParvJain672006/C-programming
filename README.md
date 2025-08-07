@@ -1,60 +1,56 @@
-<h1 align="center">🔧 C Programming Journey</h1>
-<h3 align="center">Mastering the fundamentals of C, one project at a time.</h3>
-
+<h1 align="center">🚀 C++ Programming Journey</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Mastering+C%2B%2B+Step+by+Step;OOP+%7C+DSA+%7C+Projects+%7C+Problem+Solving;Learning+with+Code+%26+Logic" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📚 About This Repository
-
-This repository contains my journey of learning and building projects in **C Programming** — from basic syntax to advanced data structures.  
-Ideal for:
-- 👨‍💻 Beginners learning C
-- 🚀 Interview & DSA practice
-- 🧠 Deepening core computer science knowledge
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ParvJain672006/CPP-Journey?style=for-the-badge" />
+</p>
 
 ---
 
-### 🧠 Topics Covered
+### 📚 What You'll Find Here
 
-- ✅ Variables, Data Types, Operators
-- ✅ Loops, Conditional Statements
-- ✅ Functions & Recursion
-- ✅ Arrays & Strings
-- ✅ Pointers & Memory Management
-- ✅ Structures & Unions
-- ✅ File Handling
-- ✅ Mini Projects in C
+> A complete personal journey through C++ programming – from fundamentals to advanced concepts and project-based learning.
+
+📌 **Main Highlights:**
+- ✅ Basics & Syntax
+- ✅ Object-Oriented Programming (OOP)
+- ✅ STL (Standard Template Library)
+- ✅ Competitive Programming
+- ✅ File Handling & Memory
+- ✅ Mini & Intermediate Projects
 
 ---
 
-### 📂 Folder Structure
+### 🧠 Folder Structure
 
 ```bash
-C-Programming-Journey/
+CPP-Journey/
 │
 ├── 01_Basics/
-│   └── hello_world.c
+│   └── input_output.cpp, datatypes.cpp
 │
-├── 02_Control_Flow/
-│   └── if_else.c, switch_case.c
+├── 02_Control_Structures/
+│   └── if_else.cpp, switch_case.cpp
 │
 ├── 03_Functions/
-│   └── recursion.c, factorial.c
+│   └── recursion.cpp, overloading.cpp
 │
-├── 04_Arrays_Strings/
-│   └── linear_search.c, string_reverse.c
+├── 04_OOP/
+│   └── classes_objects.cpp, inheritance.cpp
 │
-├── 05_Pointers/
-│   └── pointer_basics.c
+├── 05_STL/
+│   └── vector.cpp, map.cpp, set.cpp
 │
-├── 06_Structures/
-│   └── student_records.c
+├── 06_Projects/
+│   └── ATM.cpp, SnakeGame.cpp
 │
-├── 07_File_Handling/
-│   └── read_write_file.c
+├── 07_DSA_Practice/
+│   └── arrays.cpp, stacks.cpp
 │
 └── README.md
